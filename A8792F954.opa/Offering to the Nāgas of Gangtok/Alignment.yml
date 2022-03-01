@@ -1,0 +1,19 @@
+segment_sources:
+  P9A2F992F:
+    type: origin_type
+    relation: translation
+    language: en
+  P6383AF4E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  67abfd7cefff499280911a683e013c72:
+    P9A2F992F: 0aef9389543641e8a8b1596adb577808
+    P6383AF4E: d2362d71c29e491da626b27823247ab5
+  28c3700b81054963893ffa1a05947c94:
+    P9A2F992F: 48947990b96f46e7bff1d604d44cf2e5
+    P6383AF4E: 43e2f5f8de844d6081afe781c94a2f2c
+  0d93d53fab8f490ba9d80563f812cfa3:
+    P9A2F992F: 8678b809590c44feabbff00ea7c50aec
+    P6383AF4E: 1d87d53834d748e5af6abf7b6e91eb22
